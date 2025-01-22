@@ -180,7 +180,6 @@ public class Calculadora {
         }while (operacion!=0);
 
         System.out.print("saliendo...");
-        teclado.close();
     }
 
 }
